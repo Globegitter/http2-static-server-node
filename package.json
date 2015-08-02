@@ -1,0 +1,16 @@
+{
+  "name": "http2-node",
+  "version": "1.0.0",
+  "description": "http2 test server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Markus Padourek",
+  "license": "ISC",
+  "dependencies": {
+    "buffet": "^1.0.4",
+    "bunyan": "^1.4.0",
+    "http2": "^3.2.0",
+  }
+}
